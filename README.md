@@ -1,5 +1,5 @@
 # Escape-behaviours-platform
-@[toc]
+
 ## Introduction
 
 ` Technical summary：Spyder python C# STM32 Keil`
