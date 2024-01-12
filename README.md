@@ -61,7 +61,7 @@ pwm wave: HARDWARE-timer.c
 
 
 > **Data organisation**
->Experiment data and code.rar
+>Experiment data.rar
 
 > **Experimental video**
 >Movies 1-10.rar
