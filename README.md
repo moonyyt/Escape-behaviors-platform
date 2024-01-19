@@ -11,13 +11,30 @@ Here, we will describe how to install and use the software and hardware modules 
 ### Overview of the workflow
 The following figures illustrate the workflow of a real-time interactive platform.
 
-[![hardware-fiigure1.png](https://img-blog.csdnimg.cn/img_convert/891ccf37bad712c4b0c62bbc9195a5e9.png#pic_center)](https://postimg.cc/p9bwy5Rw)
 
-[![hardware-figure2.png](https://img-blog.csdnimg.cn/img_convert/813a456049219aea223f6ab8a6872db8.png#pic_center)](https://postimg.cc/JySGsqG1)
+
+<div align="center">
+
+<p align="center">
+<img src="https://i.postimg.cc/ZqBnPhN2/1.png" height="288">
+ 
+<p align="center">
+<img src="https://i.postimg.cc/YCmBb2X6/2.png" height="232">
+
+</div>
+
+
 
 The following figure shows the flowchart of software design for real-time closed-loop control.
 
-[![software-fiigure.png](https://img-blog.csdnimg.cn/img_convert/354dabab249dd7634292a7639c49c9fe.png#pic_center)](https://postimg.cc/wysFN02F)
+
+<div align="center">
+
+<p align="center">
+<img src="https://i.postimg.cc/K8srvxFH/3.png" height="438">
+ 
+</div>
+
 
 The python program has a file composition: 
 * escape behavior.py.
@@ -71,8 +88,13 @@ PWM wave: HARDWARE\TIMER\timer.c
 ## Hardware
 If you want to control the servo motor driver from STM32, you can refer to the following circuit design.
 
-[
-![Signal-adaptation-circuit.png](https://img-blog.csdnimg.cn/img_convert/f6e2abef3446966e3b690b10ffc5fa81.png#pic_center)](https://postimg.cc/GBC6RM0W)
+<div align="center">
+
+<p align="center">
+<img src="https://i.postimg.cc/h4zGHn3G/4.png" height="300">
+ 
+</div>
+
 
 Ports PE6 and PE7 in the STM32 give direction and velocity signal, respectively, which are passed through an amplifier circuit to ports 43 and 39 of the servo motor driver.
 
