@@ -31,7 +31,7 @@ The following figure shows the flowchart of software design for real-time closed
 <div align="center">
 
 <p align="center">
-<img src="https://i.postimg.cc/K8srvxFH/3.png" height="438">
+<img src="https://i.postimg.cc/K8srvxFH/3.png" height="400">
  
 </div>
 
