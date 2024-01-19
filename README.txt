@@ -1,4 +1,3 @@
-@[toc]
 ## Background
 
 ` Technical summary：Spyder python C# STM32 Keil`
