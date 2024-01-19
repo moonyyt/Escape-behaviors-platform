@@ -1,4 +1,4 @@
-# Escape-behaviours-platform
+# Escape-behaviors-platform
 ## Background
 
 ` Technical summary：Spyder python C# STM32 Keil`
